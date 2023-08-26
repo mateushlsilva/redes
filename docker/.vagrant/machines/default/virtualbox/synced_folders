@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/media/mateus/usarLinux/vangrad/redes/docker","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/mateus/Área de Trabalho/redes/docker","disabled":false,"__vagrantfile":true}}}
