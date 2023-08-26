@@ -1,7 +1,5 @@
 #/bin/bash
 cd loteria
-npm i
-npm run build
 
 docker build -t mysite .
 
